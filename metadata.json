@@ -1,0 +1,6 @@
+{
+  "name": "Cinema Management System",
+  "description": "Sistem Manajemen Operasional Cinema terintegrasi untuk pengelolaan data karyawan, inventory, utilitas listrik & air, daily cleaning, dan pengajuan kehadiran.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
